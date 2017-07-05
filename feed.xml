@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>SilentTools+ News</title>
+  <link href="https://runeteeness.github.io/testfeed/feed.xml"/>
+  <updated>2017-07-05T09:10:00Z</updated>
+  <author>
+    <name>Rune Bjønnum</name>
+  </author>
+  <id>https://runeteeness.github.io/testfeed/feed.xml</id>
+
+  <entry>
+    <id>news0001</id>
+    <title>News test 1</title>
+    <updated>2017-07-04T15:00:00Z</updated>
+    <content>Some text.</content>
+  </entry>
+  
+  <entry>
+    <id>news0002</id>
+    <title>News test 2</title>
+    <updated>2017-07-04T14:10:00Z</updated>
+    <content>Some more text. Even more text.</content>
+  </entry>
+  
+  <entry>
+    <id>news0003</id>
+    <title>News test 3</title>
+    <updated>2017-07-04T12:10:00Z</updated>
+    <content>Some more text.</content>
+  </entry>
+
+</feed>
