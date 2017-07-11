@@ -13,6 +13,7 @@
     <id>news0001</id>
     <title>News test 1</title>
     <updated>2017-07-11T15:30:00Z</updated>
+    <published>2017-07-04T12:10:00Z</published>
     <content>Some text.</content>
   </entry>
   
@@ -20,6 +21,7 @@
     <id>news0002</id>
     <title>News test 2</title>
     <updated>2017-07-04T14:10:00Z</updated>
+    <published>2017-07-04T12:10:00Z</published>
     <content>Some more text. Even more text.</content>
   </entry>
   
@@ -27,7 +29,16 @@
     <id>news0003</id>
     <title>News test 3</title>
     <updated>2017-07-04T12:10:00Z</updated>
+    <published>2017-07-04T12:10:00Z</published>
     <content>Some more text.</content>
   </entry>
 
+  <entry>
+    <id>news0004</id>
+    <title>News test 4</title>
+    <updated>2017-07-11T15:40:00Z</updated>
+    <published>2017-07-11T15:40:00Z</published>
+    <content>Some text.</content>
+  </entry>
+  
 </feed>
