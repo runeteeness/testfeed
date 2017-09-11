@@ -1,0 +1,53 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>SilentTools+ News</title>
+	<id>SilentTools+ News</id>
+	<updated>2017-09-08T15:29:30.594Z</updated>
+	<subtitle></subtitle>
+	<author>
+		<name>SilentTools+ Team</name>
+	</author>
+	<link href="https://runeteeness.github.io/testfeed/betafeed.xml"/>
+	
+	<entry>
+		<title type="text">CoroTurn® Prime and PrimeTurning™</title>
+		<id>00000001</id>
+		<updated>2017-09-08T15:29:30.594Z</updated>
+		<summary>The biggest innovation in turning ... since turning. Increase your feed with excellent chip control by using small entering angles, resulting in large productivity boosts in a wide range of processes.</summary>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>The biggest innovation in turning ... since turning. Increase your feed with excellent chip control by using small entering angles, resulting in large productivity boosts in a wide range of processes.</p>
+				<p>Take a closer look here:
+				<br /><a href="http://www.sandvik.coromant.com/en-gb/campaigns/primeturning/" target="_blank">http://www.sandvik.coromant.com/en-gb/campaigns/primeturning/</a>
+			</div>
+		</content>
+		<published>2017-09-08T15:29:30.594Z</published>
+		<author>
+			<name>Jörgen Hägglund</name>
+		</author>
+	</entry>
+	
+	<entry>
+		<title type="text">Welcome to the SilentTools+ v1.0 Software!</title>
+		<id>00000000</id>
+		<updated>2017-09-08T15:29:30.594Z</updated>
+		<summary>Welcome to the cutting edge of machining technology. Using this SilentTools+ Software, in combination with your SilentTools+ boring bar, will unleash new possibilities and process insights, both for you as an operator, process engineer or in research &amp; development.</summary>
+		<content type="text">Welcome to the cutting edge of machining technology. Using this SilentTools+ Software, in combination with your SilentTools+ boring bar, will unleash new possibilities and process insights, both for you as an operator, process engineer or in research &amp; development.
+
+The data presented in this software will quickly become your "eyes and ears" inside the process, whether you are machining in serial production and want to know everything is ok, or you are running in a new process, and want to be able to identify problem areas.
+
+At SilentTools, we will continually upgrade and evolve this software. The future brings enhancements, new functionality and new possibilities. Please make sure to go online once in a while to check for updates, to make sure you have the best, safest and most up-to-date version.
+
+Please remember that you can get help in the app at any time by clicking the question mark near the top right of the screen.
+
+We also want to remind you that we have a SilentTools+ forum in place, where you can get in contact with SilentTools+ Technicians, and other users. To get help, discuss, or to suggest changes or feature requests directly to the development team.
+
+The forum is found at
+http://www.silenttoolsplus.com
+
+If you have further questions or other issues, please contact your local Sandvik Coromant representative.</content>
+		<published>2017-09-08T15:29:30.594Z</published>
+		<author>
+			<name>Mathias Tjomsland</name>
+		</author>
+	</entry>
+</feed>
